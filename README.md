@@ -13,6 +13,8 @@ pip install -U spacy ginza ja_ginza Pillow
 ## Preview
 ![Output](output_anchor.gif)
 
+> Note: The text in the preview is from the prologue of [魔女と傭兵](https://ncode.syosetu.com/n2819ha/).
+
 ## Basic Usage
 
 ```bash
