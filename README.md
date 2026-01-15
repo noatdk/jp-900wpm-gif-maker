@@ -1,6 +1,6 @@
 # Japanese Anchor GIF Generator (`generator.py`)
 
-A Python script to generate animated GIFs from Japanese text using an **Anchor-based RSVP (Rapid Serial Visual Presentation)** method. It centers the text based on the middle character (the "pivot") of each segment, keeping the reader's eye focused on a fixed point. This is a toy script which was inspired by this tweet https://x.com/UltraLinx/status/2011434505253650868
+A Python script to generate animated GIFs from Japanese text using an **Anchor-based RSVP (Rapid Serial Visual Presentation)** method. It centers the text based on the middle character (the "pivot") of each segment, keeping the reader's eye focused on a fixed point. This is a toy script which was inspired by [this tweet](https://x.com/UltraLinx/status/2011434505253650868).
 
 ## Requirements
 
